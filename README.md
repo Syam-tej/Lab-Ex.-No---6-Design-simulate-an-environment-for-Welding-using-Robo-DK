@@ -125,6 +125,12 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 
 
 ### simulation :
+![image](https://user-images.githubusercontent.com/94165326/175799749-61682443-4ec9-4044-929d-04185304ecb1.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799753-da00d232-08fa-40b1-aee6-920793bffbb1.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799760-5719f2d6-5cd0-4900-9114-d78f03cc173f.png)
+
 
 
 
